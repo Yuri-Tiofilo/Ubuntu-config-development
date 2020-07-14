@@ -15,7 +15,7 @@
    - Install git
      - ```sudo apt install git-all```
    - Zsh default terminal
-     - ```chsh -s $(which zsh)```
+     - ```sudo chsh -s $(which zsh)```
    - Install Firacode font
      - download in repository
        - ```https://github.com/tonsky/FiraCode```   
