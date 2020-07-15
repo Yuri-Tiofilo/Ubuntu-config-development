@@ -259,7 +259,7 @@
    - Node
      - kill process nodeJs
        * case netstat command not found
-         - ``sudo apt-get install net-tools```
+         - ```sudo apt-get install net-tools```
        - see a process in port
          * ```sudo netstat -lpn |grep :'3000'```
        - kill the id process without aspas
