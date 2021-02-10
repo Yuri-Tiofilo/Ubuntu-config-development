@@ -178,7 +178,7 @@
       ```
 8. install zsh
    * use comand
-     - ```sudo apt-get install zsh
+     - ```sudo apt-get install zsh```
    * define temrinal default
       - ```bash -c zsh```
    * Instalar oh-my-zsh
